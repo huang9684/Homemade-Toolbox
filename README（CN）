@@ -4,12 +4,14 @@
 
 ### 工作方式
 它的工作方式如下：
+```code
 toolbox-docker/
 ├── Dockerfile          ← 多阶段构建镜像
 ├── package.json        ← 依赖声明
 ├── server.js           ← 后端服务
 └── public/
     └── index.html      ← 前端页面
+```
 
 ### 如何使用此项目？
 您可将本项目下载后，通过下列命令来构建您的DOCKER镜像：
