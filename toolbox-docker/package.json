@@ -1,0 +1,15 @@
+{
+  "name": "personal-toolbox",
+  "version": "1.0.0",
+  "description": "个人工具箱 - 短链接 / 剪贴板 / 文件分享",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^9.4.3",
+    "busboy": "^1.6.0",
+    "qrcode": "^1.5.3"
+  }
+}
