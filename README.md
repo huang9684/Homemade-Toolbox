@@ -5,12 +5,14 @@ A version of Docker software I made myself, including some commonly used small t
 
 ### Way of working
 Its working method is as follows ：
+```code
 toolbox-docker/
 ├── Dockerfile ← Multi-stage build image
 ├── package.json ← Dependency declaration
 ├── server.js ← Backend service
 └── public/
 └── index.html ← Frontend page
+```
 
 ### How to use this project?
 You can download this project and then build your DOCKER image using the following command:
