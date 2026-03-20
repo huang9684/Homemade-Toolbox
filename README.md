@@ -1,7 +1,7 @@
 # Homemade-Toolbox
 A version of Docker software I made myself, including some commonly used small tools, hope it can help you!
-(This article was written using Microsoft Translator. If you want to see the Chinese document, you can check the '[README (CN)](https://github.com/huang9684/Homemade-Toolbox/blob/main/README（CN）)' document.)
-（本篇采用微软翻译编写，若您希望看到中文文档，可查看“[README（CN）](https://github.com/huang9684/Homemade-Toolbox/blob/main/README（CN）)”文档。）
+(This article was written using Microsoft Translator. If you want to see the Chinese document, you can check the '[README (CN)](https://github.com/huang9684/Homemade-Toolbox/blob/main/README（CN）.md)' document.)
+（本篇采用微软翻译编写，若您希望看到中文文档，可查看“[README（CN）](https://github.com/huang9684/Homemade-Toolbox/blob/main/README（CN）.md)”文档。）
 
 ### Way of working
 Its working method is as follows ：
