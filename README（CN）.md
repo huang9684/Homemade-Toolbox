@@ -30,4 +30,4 @@ docker tag abc12345 myrepo/myimage:latest
 # 运行（xxxx为您自行设定的端口，端口可自行修改）
 docker run -d -p xxxx:3000 --name toolbox toolbox:latest
 ```
-若您不想进行构建，我们也为您准备了已经打包好的DOCKER镜像，下载后即可直接进行部署。
+若您不想进行构建，我们也为您准备了已经打包好的DOCKER镜像，下载后即可直接进行部署，您可在“发布”页面找到文件。
