@@ -32,4 +32,4 @@ docker tag abc12345 myrepo/myimage:latest
 # Run (xxxx is the port you set yourself, the port can be modified freely)
 docker run -d -p xxxx:3000 --name toolbox toolbox:latest
 ```
-If you do not want to build it yourself, we have also prepared a pre-packaged DOCKER image for you, which can be deployed directly after downloading.
+If you do not want to build it yourself, we have also prepared a pre-packaged DOCKER image for you, which can be deployed directly after downloading,You can find the file on the 'Publish' page.
